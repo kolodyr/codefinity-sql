@@ -1,2 +1,2 @@
-SELECT name, id
+SELECT DISTINCT capital
 FROM country
