@@ -1,2 +1,3 @@
-SELECT DISTINCT capital
+SELECT DISTINCT region
 FROM country
+LIMIT 4
