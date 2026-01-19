@@ -1,2 +1,2 @@
-SELECT population
+SELECT name
 FROM country
